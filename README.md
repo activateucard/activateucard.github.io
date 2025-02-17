@@ -6,7 +6,7 @@ The **[UnitedHealthcare UCard](https://activateucard.github.io/)** is an all-in-
 
 <div align="center">
   <a href="https://activateucard.github.io/">
-    <img src="ActivateUhc.png" alt="Activate.UHC.com" title="Activate.UHC.com">
+    <img src="ActivateUhc.png" alt="Activate.UHC.com" title="Activate.UHC.com" width="600">
   </a>
 </div>
 
